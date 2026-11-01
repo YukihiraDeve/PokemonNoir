@@ -1,0 +1,11 @@
+Model Information:
+* title:	PokkenTournament  Snivy
+* source:	https://sketchfab.com/3d-models/pokkentournament-snivy-92b635363f0c4a31ba10415a8619135c
+* author:	akennedy007 (https://sketchfab.com/akennedy007)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PokkenTournament  Snivy" (https://sketchfab.com/3d-models/pokkentournament-snivy-92b635363f0c4a31ba10415a8619135c) by akennedy007 (https://sketchfab.com/akennedy007) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
